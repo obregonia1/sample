@@ -9,3 +9,4 @@ artist[0, 1] = 'madlib', 'mfdoom'
 puts artist
 artist << 'monypetzjnkmn'
 puts artist
+mpj = [monyhorse, petz, jnkmn]
